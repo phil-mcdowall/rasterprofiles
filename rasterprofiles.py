@@ -4,6 +4,8 @@ from shapely.geometry import LineString, mapping
 from fiona import collection
 from collections import OrderedDict
 
+#TODO switch lines for great circles
+
 def to_pix(xy, transform):
     return ~transform * xy
 
