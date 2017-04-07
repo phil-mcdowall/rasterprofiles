@@ -14,3 +14,4 @@ length `distance` at angle `degrees`.
 For indicies of cells (rather than values) use `.profile_indicies(args)`
 
 
+![Example image](docs/demo.png)
